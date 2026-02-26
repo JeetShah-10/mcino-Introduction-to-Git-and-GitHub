@@ -1,0 +1,5 @@
+theia@theia-u24012250267:/home/project/mcino-Introduction-to-G
+it-and-GitHub$ git branch -vv
+* bug-fix-revert 2f7be29 Revert "Reverted changes"
+  bug-fix-typo   9861ef7 Changed Year in README.md
+  main           9861ef7 [origin/main: ahead 1] Changed Year in README.md
